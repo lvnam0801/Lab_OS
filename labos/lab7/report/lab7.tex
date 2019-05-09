@@ -1,0 +1,49 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{vietnam}
+\usepackage[margin=1in]{geometry} 
+\usepackage[english]{babel}
+
+\begin{document}
+\section{}
+
+\begin{center}
+    \begin{tabular}{c|c|c}
+        Process & Arrival Time & Burst Time \\ \hline
+        P1 & 0.0 & 8\\
+        P2 & 0.4 & 4\\
+        P3 & 1.0 & 1
+    \end{tabular}
+\end{center}
+
+\begin{table}[!htp]
+    \centering            %Center Table%
+    \def\arraystretch{2}  %Margin Table%
+    
+    \begin{tabular}{|m{8cm}|m{4cm}|m{1cm}|}
+        \hline
+        P1 & P2 & P3 \\
+        \hline
+    \end{tabular}
+
+    \begin{tabular}{m{8cm} m{4cm} m{1cm} l }
+        0 & 8 & 12 & 13 \\
+    \end{tabular}
+    
+    \caption{Gantt chart - FCFS}
+\end{table}
+
+\subsection*{a)}
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|}
+    \hline
+    P1 \hspace{4cm} & P2 \hspace{2cm} & P3\\
+    \hline 
+    \end{tabular}
+    \\
+    
+    \caption{Gantt chart - FCFS algorithm}
+\end{table}
+
+\end{document}

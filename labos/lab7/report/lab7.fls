@@ -1,0 +1,66 @@
+PWD c:/Users/Big Boss/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/dragon/labos/lab7/report
+INPUT c:/texlive/2018/texmf.cnf
+INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/Big Boss/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/dragon/labos/lab7/report/lab7.tex
+OUTPUT c:/Users/Big Boss/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/dragon/labos/lab7/report/lab7.log
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/vietnam.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/vietnam.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/t5enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/t5enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/t5enc.dfu
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/t5enc.dfu
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/t5cmr.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/t5cmr.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/vntex/vnr/vnr12.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/vncaps.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/vntex/vncaps.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT c:/Users/Big Boss/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/dragon/labos/lab7/report/lab7.aux
+INPUT c:/Users/Big Boss/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/dragon/labos/lab7/report/lab7.aux
+OUTPUT c:/Users/Big Boss/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/dragon/labos/lab7/report/lab7.aux
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/vntex/vnr/vnr17.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/vntex/vnr/vnbx12.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/vntex/vnr/vnr12.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/vntex/vnr/vnbx12.tfm
+OUTPUT c:/Users/Big Boss/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/dragon/labos/lab7/report/lab7.pdf
+INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/Users/Big Boss/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/dragon/labos/lab7/report/lab7.aux
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb
